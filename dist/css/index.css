@@ -1,0 +1,15 @@
+body
+{
+    background: url(/dist/resource/2.6.jpg);
+}
+h1
+{
+    color:orange;
+    text-align:center;
+}
+p
+{
+    font-family:"Times New Roman";
+    font-size:20px;
+}
+/*# sourceMappingURL=index.css.map?8d72eee265c402c576bf-ab0d15c32ffc0bad838c-82f9a007a5638344ff98f12aae5df09d-index*/

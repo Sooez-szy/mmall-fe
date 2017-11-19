@@ -1,0 +1,14 @@
+body
+{
+    background: url("../../image/2.6.jpg");
+}
+h1
+{
+    color:orange;
+    text-align:center;
+}
+p
+{
+    font-family:"Times New Roman";
+    font-size:20px;
+}
